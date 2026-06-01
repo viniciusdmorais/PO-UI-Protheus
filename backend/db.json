@@ -1,0 +1,23 @@
+{
+  "clientes": [
+    {
+      "codigo": "001",
+      "nome": "Vinicius Mendes",
+      "cidade": "Ribeirão Preto",
+      "id": "e8jwE91Qr2E"
+    },
+    {
+      "codigo": "002",
+      "nome": "Marcelo Braz",
+      "cidade": "Cravinhos",
+      "id": "B1vbu1R3dC8"
+    },
+    {
+      "codigo": "003",
+      "nome": "Gabriel Silva",
+      "cidade": "Ubatuba",
+      "id": "LC2S63YO1yo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
